@@ -15,3 +15,9 @@ Skills
 Purpose
 
 This repository showcases my creative work, design projects, and learning journey.
+## Tools Used
+- Affinity Designer
+- Canva
+
+## Contact
+Graphic Design Student

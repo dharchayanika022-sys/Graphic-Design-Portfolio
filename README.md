@@ -21,3 +21,7 @@ This repository showcases my creative work, design projects, and learning journe
 
 ## Contact
 Graphic Design Student
+- Canva
+
+## Contact
+Graphic Design Student

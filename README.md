@@ -13,5 +13,21 @@ Skills
 * Social Media Creatives
 
 Purpose
+# My Graphic Design Projects
 
-This repository showcases my creative work, design projects, and learning journey.
+Here are some of the graphic design projects I have worked on during my studies.
+
+## 1. ELLURE – Fashion Editorial
+A fashion magazine project focusing on editorial layouts, typography, fashion photography and visual storytelling.
+
+## 2. SHYNE ATELIER – Skincare Branding
+A luxury skincare branding project involving logo design, brand identity, packaging and product presentation.
+
+## 3. Social Media Addiction – Awareness Poster
+A creative awareness poster highlighting the effects of excessive social media usage through visual communication.
+
+## 4. Tejimola – Book Cover Redesign
+A book cover redesign inspired by the Assamese folk tale Tejimola, exploring illustration, colour and storytelling.
+
+## 5. Brand Identity Projects
+Exploration of logo design, typography, brand identity and visual communication for different brands.
